@@ -1,3 +1,7 @@
+```markdown
+
+----
+
 # Right Side Records: A San Francisco-Based Music Label
 
 **Author:** [idiosyncapricorn](https://idiosyncapricorn.github.io/RRecord/)
@@ -31,3 +35,5 @@ Visit the live site [here](https://idiosyncapricorn.github.io/RRecord/).
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/idiosyncapricorn/RRecord/blob/main/LICENSE) for more details.
+
+----
