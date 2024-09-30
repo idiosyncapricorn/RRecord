@@ -1,4 +1,4 @@
-# R Record: A San Francisco-Based Music Label
+# Right Side Records: A San Francisco-Based Music Label
 
 **Author:** [idiosyncapricorn](https://idiosyncapricorn.github.io/RRecord/)
 
